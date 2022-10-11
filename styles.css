@@ -14,13 +14,13 @@ width:58%;
 padding: 1%;
 margin-left: auto;
 align: center;
- image: url(Kristen Bonilla Profile Pic.png);
+ img: url(Kristen Bonilla Profile Pic.png);
 }
 
 .swing {
 width: 58%;
 padding:1%;
- image: url(KB Swing.png);
+ img: url(KB Swing.png);
 }
 .body {
 font-style:normal merriweather;
@@ -34,5 +34,5 @@ text-align: right;
 }
 .logo {
     align-self: left;
- image: url(Kristen Bonilla Logo.png);
+ img: url(Kristen Bonilla Logo.png);
 }
