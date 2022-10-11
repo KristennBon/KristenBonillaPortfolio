@@ -14,7 +14,7 @@ width:58%;
 padding: 1%;
 margin-left: auto;
 align: center;
- img: url(Kristen Bonilla Profile Pic.png);
+ img: url(/Images/Kristen Bonilla Profile Pic.png);
 }
 
 .swing {
@@ -34,6 +34,6 @@ text-align: right;
 }
 .logo {
     align-self: left;
- img: url(Kristen Bonilla Logo.png);
+ img: url(Images/Kristen Bonilla Logo.png);
 }
 
